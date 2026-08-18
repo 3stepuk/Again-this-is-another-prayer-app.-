@@ -1,0 +1,6 @@
+{
+  "name": "Liturgy of the Hours",
+  "description": "A complete personal Liturgy of the Hours breviary app for Mac and mobile with daily offices, liturgical calendar, Latin/English texts, ambient audio, and spiritual reflections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
